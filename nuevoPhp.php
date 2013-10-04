@@ -8,13 +8,15 @@
     <body>
         
         <?php 
+        
+        echo"<h1>";
          $nuev1 = 10;
         echo $nuev1;
          $my_nuevo = "diez";
          echo  $my_nuevo;
           echo"<br />";
          
-          
+          echo"</h1>";
           $nuev1 = 100;
           echo $nuev1;
           $my_nuevo = "cien";
