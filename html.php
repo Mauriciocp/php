@@ -1,18 +1,18 @@
-<html>p
+<html>
     
-    <head>e
-        <title>t
+    <head>
+        <title>
            HENRY
            
         </title>
         </head>
-        <body>c
+        <body>
         <BIG>
         HENRY
         </BIG>
-           <h1>pa
+           <h1>
                <small>
-                   <font color="blue">
+                   <font color="#00FF7F">
               CREACION DE NUEVA PAGINA
               </font>
              
@@ -41,7 +41,7 @@
         <b> entrar <i>dentrar</i> </b>
         <ul>henry </ul>
         <ol>luis</ol>
-        <li>pedro</li>    
+        <li>imagen desarrollo web</li>    
         </body>
         <img src="html.gif">
         

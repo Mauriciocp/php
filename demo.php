@@ -1,7 +1,7 @@
 <htm>
     <title>
         demostracion 
-    </title>
+    </title>    
     <head>
     <body>
 categorias

@@ -1,0 +1,35 @@
+/* Site Colors:
+#1A446C - blue grey
+#689DC1 - light blue
+#D4E6F4 - very light blue
+#EEEAB9 - light tan 
+#8D0D19 - burgundy
+*/
+
+html {height: 200%; width: 200%;}
+body {width: 100%; height: 100% ;margin: 10px; padding: 0px; border: 0px;
+font-family: 'Times New Roman',Times,serif; background: #8C1717;
+font-size: 13px; line-height: 17px;}
+img{border: none;}
+table, tr, td {border-collapse: collapse; vertical-align: top; font-size: 13px;
+line-height: 15px;}
+a {color: #8D0D19;}
+#header {height: 70px; margin: 0px; padding: 0px; text-align: left;
+background: #1A446C; color: #8C1717;}
+#header h1 {padding: 1em; margin: 0px;}
+#main {margin: 0px; padding: 0px;height: 600px; width: 100%; background: #EEE4B9;}
+#structure {height: 600px; width: 100%}
+#footer { height: 2em; margin:0px; padding: 1em; text-align: center;
+background: #1A446C; color: #8C1717;}
+
+/* Navegation */
+#navigation {width: 150px; padding: 1em 2em; color:#8C1717; background: #8D0D19}
+#navigation a {color: #8C1717	; text-decoration: none; }
+ul.subjects {padding-left: 0; list-style: none;}
+ul.pages {padding-left: 6em; list-style: square;}
+.select{font-weight: bold;}
+
+/* Page Content */
+#page {padding-left: 2em; vertical-align: top; background: #EEE4B9;}
+#page h2{color:#8D0D19; margin-top:  1em; }
+#page h3{color: #8D0D19; margin-top:  1em; padding-left: 9em;} 
